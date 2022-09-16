@@ -1,4 +1,4 @@
-![Ciao mi chiamo Moussa](https://media-exp1.licdn.com/dms/image/C4D16AQEqXxelWITKVw/profile-displaybackgroundimage-shrink_350_1400/0/1644868367574?e=1668643200&v=beta&t=qYEWxF2HCogig5410DevFajKHlBN2ts7Gtm4sSeux1A)
+<img aling="centre" src="https://media-exp1.licdn.com/dms/image/C4D16AQEqXxelWITKVw/profile-displaybackgroundimage-shrink_350_1400/0/1644868367574?e=1668643200&v=beta&t=qYEWxF2HCogig5410DevFajKHlBN2ts7Gtm4sSeux1A" >
 
 <div align="center"> 
 <i>Mi piace condividere il mio codice con tutti</i></br></br>
